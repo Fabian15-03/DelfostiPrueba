@@ -1,0 +1,8 @@
+export default {
+  BACKGROUNDCOLOR: '##F5F5F5',
+  WHITE: '#FFF',
+  BLACK: '#000',
+  GRAY: '#97989F',
+  DELFOSTI: '#2A6BF5',
+  SECUNDARIO: '#2253BA',
+};
