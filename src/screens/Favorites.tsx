@@ -18,7 +18,7 @@ interface Product {
   name: string;
   image: any;
   price: number;
-  subtitle: string;
+  subitle: string;
 }
 
 export default function Favorites() {
@@ -69,7 +69,7 @@ export default function Favorites() {
               image={product.image}
               title={product.name}
               price={product.price}
-              subtitle={product.subtitle}
+              subtitle={product.subitle}
               isFavorite={true}
             />
           </TouchableOpacity>
